@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+.center-style{
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    padding:20px;
+    
+}
+.title-style{
+    background-color:black;
+    color: white;
+    display: flex ;
+    text-decoration: none;
+    font-size: 1rem;
+   padding: 20px;
+   align-items:center;
+   display: inline;
+}
+.title-style:hover{
+    background-color:gray;
+}
