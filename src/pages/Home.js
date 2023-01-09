@@ -6,7 +6,7 @@ const Home = () => {
     <div className="homeimg">
       <img src={background} alt="Logo" />
       <div className="content-style">
-        <h2>dgh</h2>
+        <h2>hi</h2>
       </div>
     </div>
   );
